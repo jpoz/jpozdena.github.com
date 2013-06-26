@@ -1,0 +1,46 @@
+table {
+	border: 1px solid black;
+}
+td, th {
+	border: 1px solid black;
+}
+
+.box {
+	border: 1px solid black;
+}
+
+.banana_images {
+	margin: 10px;
+}
+
+.make_me_pink {
+	background-color: pink;
+}
+
+.make_me_lightgreen {
+	background-color: lightgreen;
+}
+
+.make_me_big {
+	font-size: 24px;
+}
+
+.make_me_hidden {
+	display: none;
+}
+
+.really_awesome_title {
+	font-size: 30px;
+	color: pink;
+	background-color: black;
+	transition: font-size 1s;
+}
+.really_awesome_title:hover {
+	font-size: 50px;
+}
+
+.make_me_centered {
+	background: orange;
+	margin: 0px auto;
+	width: 90%;
+}
